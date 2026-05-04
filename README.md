@@ -19,3 +19,4 @@ lwk really fun, I enjoyed it a lot
 <p>overall im lwk rly proud of myself for what ive done so far. it looks sick as (bc its a shark and we ALL love sharks) and for something entirely new ive never done before, i did pretty well. I am quite scared for the actual building the thing irl part and am still entirely unsure how to do so as the sleepover tut didnt go over that, but ill work it out, trust trust</p>
 
 <h2>Photos!!</h2>
+<p>just realized i actually dont know how to add the photos i have saved on the respitory to the readme so youll just have to look at them manually, basically theyre just random screenshots i took while working to ask for help/show my friends what i was doing haha (theres like one other photo on my phone but im too lazy to send it to my laptop😭😭)</p>
