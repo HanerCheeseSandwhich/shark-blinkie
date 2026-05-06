@@ -20,3 +20,11 @@ lwk really fun, I enjoyed it a lot
 
 <h2>Photos!!</h2>
 <p>just realized i actually dont know how to add the photos i have saved on the respitory to the readme so youll just have to look at them manually, basically theyre just random screenshots i took while working to ask for help/show my friends what i was doing haha (theres like one other photo on my phone but im too lazy to send it to my laptop😭😭)</p>
+
+<img width="850" height="414" alt="Screenshot 2026-04-27 134813" src="https://github.com/user-attachments/assets/7969ee09-ed2c-4058-b5a3-034c7b3623ed" />
+<img width="623" height="436" alt="Screenshot 2026-04-25 224737" src="https://github.com/user-attachments/assets/8d5b1f10-ab4f-46ba-9ba7-77b6dbbe9ab0" />
+<img width="481" height="267" alt="Screenshot 2026-04-26 220554" src="https://github.com/user-attachments/assets/7d6bd5eb-a744-485d-881d-5143dcabdd60" />
+<img width="686" height="470" alt="Screenshot 2026-04-27 165224" src="https://github.com/user-attachments/assets/81d46024-294c-4c35-ae27-ccd5b722b521" />
+
+figured out how to attach images!!
+
