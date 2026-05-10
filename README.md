@@ -32,10 +32,10 @@ figured out how to attach images!!
 
 "Hi, could you cleanup your repo. For the pcb you only need to have the .kicad files and a .zip file with the gerbers. Also you don't need to have the parts for the blinky board in the stasis bom, because you will get a kit with the parts you need. (make sure you have selected that you're following the guide). But you should add the bom to your repo and readme."
 
--repo cleaned
--(i followed the sleepover guide so theres different components from the statis guide, sorry :c )
--added BOM to repo!
-(image below)
+<p>-repo cleaned</p>
+<p>-(i followed the sleepover guide so theres different components from the statis guide, sorry :c )</p>
+<p>-added BOM to repo!</p>
+<p>(image below)</p>
 <img width="962" height="618" alt="image" src="https://github.com/user-attachments/assets/ac469612-c883-47c5-8efc-f31be033b0f8" />
 
 
